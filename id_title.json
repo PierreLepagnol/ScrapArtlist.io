@@ -1,0 +1,898 @@
+[
+ {
+  "categoryid": "5",
+  "title": "Uplifting"
+ },
+ {
+  "categoryid": "311",
+  "title": "Epic"
+ },
+ {
+  "categoryid": "6",
+  "title": "Powerful"
+ },
+ {
+  "categoryid": "105",
+  "title": "Exciting"
+ },
+ {
+  "categoryid": "7",
+  "title": "Happy"
+ },
+ {
+  "categoryid": "101",
+  "title": "Funny"
+ },
+ {
+  "categoryid": "8",
+  "title": "Carefree"
+ },
+ {
+  "categoryid": "9",
+  "title": "Love"
+ },
+ {
+  "categoryid": "35",
+  "title": "Playful"
+ },
+ {
+  "categoryid": "83",
+  "title": "Groovy"
+ },
+ {
+  "categoryid": "93",
+  "title": "Sexy"
+ },
+ {
+  "categoryid": "78",
+  "title": "Hopeful"
+ },
+ {
+  "categoryid": "10",
+  "title": "Peaceful"
+ },
+ {
+  "categoryid": "12",
+  "title": "Serious"
+ },
+ {
+  "categoryid": "13",
+  "title": "Dramatic"
+ },
+ {
+  "categoryid": "14",
+  "title": "Angry"
+ },
+ {
+  "categoryid": "15",
+  "title": "Tense"
+ },
+ {
+  "categoryid": "16",
+  "title": "sad"
+ },
+ {
+  "categoryid": "79",
+  "title": "Scary"
+ },
+ {
+  "categoryid": "92",
+  "title": "Dark"
+ },
+ {
+  "categoryid": "108",
+  "title": "Animals"
+ },
+ {
+  "categoryid": "114",
+  "title": "Communication and Electronics"
+ },
+ {
+  "categoryid": "120",
+  "title": "Sports"
+ },
+ {
+  "categoryid": "126",
+  "title": "Home"
+ },
+ {
+  "categoryid": "132",
+  "title": "Transportation"
+ },
+ {
+  "categoryid": "138",
+  "title": "Elements of Nature"
+ },
+ {
+  "categoryid": "144",
+  "title": "Weapons and Warfare"
+ },
+ {
+  "categoryid": "150",
+  "title": "Industry and Commercial"
+ },
+ {
+  "categoryid": "17",
+  "title": "Business & Corporate"
+ },
+ {
+  "categoryid": "18",
+  "title": "Technology"
+ },
+ {
+  "categoryid": "19",
+  "title": "Time Lapse"
+ },
+ {
+  "categoryid": "20",
+  "title": "Food"
+ },
+ {
+  "categoryid": "21",
+  "title": "Education"
+ },
+ {
+  "categoryid": "22",
+  "title": "Documentary"
+ },
+ {
+  "categoryid": "74",
+  "title": "Weddings"
+ },
+ {
+  "categoryid": "84",
+  "title": "Vlog"
+ },
+ {
+  "categoryid": "23",
+  "title": "Road Trip"
+ },
+ {
+  "categoryid": "75",
+  "title": "Travel"
+ },
+ {
+  "categoryid": "24",
+  "title": "Sport & Fitness"
+ },
+ {
+  "categoryid": "25",
+  "title": "lifestyle"
+ },
+ {
+  "categoryid": "26",
+  "title": "Building & City"
+ },
+ {
+  "categoryid": "27",
+  "title": "Nightlife"
+ },
+ {
+  "categoryid": "28",
+  "title": "Fashion"
+ },
+ {
+  "categoryid": "29",
+  "title": "Science"
+ },
+ {
+  "categoryid": "30",
+  "title": "Medical"
+ },
+ {
+  "categoryid": "31",
+  "title": "Industry"
+ },
+ {
+  "categoryid": "32",
+  "title": "Aerials"
+ },
+ {
+  "categoryid": "33",
+  "title": "Landscape"
+ },
+ {
+  "categoryid": "34",
+  "title": "Nature"
+ },
+ {
+  "categoryid": "36",
+  "title": "Slow Motion"
+ },
+ {
+  "categoryid": "157",
+  "title": "Nature"
+ },
+ {
+  "categoryid": "163",
+  "title": "City"
+ },
+ {
+  "categoryid": "169",
+  "title": "Weather"
+ },
+ {
+  "categoryid": "175",
+  "title": "Crowds"
+ },
+ {
+  "categoryid": "181",
+  "title": "Indoor Ambiences"
+ },
+ {
+  "categoryid": "187",
+  "title": "Transportation Ambience"
+ },
+ {
+  "categoryid": "65",
+  "title": "Acoustic"
+ },
+ {
+  "categoryid": "57",
+  "title": "Ambient"
+ },
+ {
+  "categoryid": "58",
+  "title": "Blues"
+ },
+ {
+  "categoryid": "88",
+  "title": "Children"
+ },
+ {
+  "categoryid": "62",
+  "title": "Cinematic"
+ },
+ {
+  "categoryid": "72",
+  "title": "Classical"
+ },
+ {
+  "categoryid": "60",
+  "title": "Country"
+ },
+ {
+  "categoryid": "64",
+  "title": "Electronic"
+ },
+ {
+  "categoryid": "71",
+  "title": "Folk"
+ },
+ {
+  "categoryid": "89",
+  "title": "Funk"
+ },
+ {
+  "categoryid": "85",
+  "title": "Hip Hop"
+ },
+ {
+  "categoryid": "87",
+  "title": "Holiday"
+ },
+ {
+  "categoryid": "66",
+  "title": "Indie"
+ },
+ {
+  "categoryid": "61",
+  "title": "Jazz"
+ },
+ {
+  "categoryid": "91",
+  "title": "Latin"
+ },
+ {
+  "categoryid": "97",
+  "title": "Lounge"
+ },
+ {
+  "categoryid": "69",
+  "title": "Pop"
+ },
+ {
+  "categoryid": "73",
+  "title": "Reggae"
+ },
+ {
+  "categoryid": "68",
+  "title": "Rock"
+ },
+ {
+  "categoryid": "70",
+  "title": "Singer-Songwriter"
+ },
+ {
+  "categoryid": "59",
+  "title": "Soul & RnB"
+ },
+ {
+  "categoryid": "63",
+  "title": "World"
+ },
+ {
+  "categoryid": "194",
+  "title": "Footsteps"
+ },
+ {
+  "categoryid": "201",
+  "title": "Body Sounds"
+ },
+ {
+  "categoryid": "207",
+  "title": "Materials"
+ },
+ {
+  "categoryid": "213",
+  "title": "Wearable Objects"
+ },
+ {
+  "categoryid": "219",
+  "title": "Body Hits/Martial Arts"
+ },
+ {
+  "categoryid": "41",
+  "title": "Acoustic Drums"
+ },
+ {
+  "categoryid": "38",
+  "title": "Acoustic Guitar"
+ },
+ {
+  "categoryid": "52",
+  "title": "Backing Vocals"
+ },
+ {
+  "categoryid": "48",
+  "title": "Bells"
+ },
+ {
+  "categoryid": "46",
+  "title": "Claps & Snaps"
+ },
+ {
+  "categoryid": "39",
+  "title": "Electric Guitar"
+ },
+ {
+  "categoryid": "82",
+  "title": "Electronic Drums"
+ },
+ {
+  "categoryid": "81",
+  "title": "Ethnic"
+ },
+ {
+  "categoryid": "80",
+  "title": "Keys"
+ },
+ {
+  "categoryid": "37",
+  "title": "Mandolin & Ukulele"
+ },
+ {
+  "categoryid": "86",
+  "title": "Orchestra"
+ },
+ {
+  "categoryid": "43",
+  "title": "Percussion"
+ },
+ {
+  "categoryid": "40",
+  "title": "Piano"
+ },
+ {
+  "categoryid": "42",
+  "title": "Strings"
+ },
+ {
+  "categoryid": "49",
+  "title": "Synth"
+ },
+ {
+  "categoryid": "51",
+  "title": "Vocal"
+ },
+ {
+  "categoryid": "50",
+  "title": "Whistle"
+ },
+ {
+  "categoryid": "47",
+  "title": "Wind Instruments"
+ },
+ {
+  "categoryid": "226",
+  "title": "Destruction"
+ },
+ {
+  "categoryid": "232",
+  "title": "Science Fiction"
+ },
+ {
+  "categoryid": "238",
+  "title": "Cartoon"
+ },
+ {
+  "categoryid": "244",
+  "title": "Horror"
+ },
+ {
+  "categoryid": "250",
+  "title": "Technology"
+ },
+ {
+  "categoryid": "256",
+  "title": "Impacts"
+ },
+ {
+  "categoryid": "262",
+  "title": "Whooshes"
+ },
+ {
+  "categoryid": "269",
+  "title": "Loops and Phrases"
+ },
+ {
+  "categoryid": "275",
+  "title": "Logos"
+ },
+ {
+  "categoryid": "281",
+  "title": "One Shots"
+ },
+ {
+  "categoryid": "287",
+  "title": "Vocals"
+ },
+ {
+  "categoryid": "5",
+  "title": "Uplifting"
+ },
+ {
+  "categoryid": "311",
+  "title": "Epic"
+ },
+ {
+  "categoryid": "6",
+  "title": "Powerful"
+ },
+ {
+  "categoryid": "105",
+  "title": "Exciting"
+ },
+ {
+  "categoryid": "7",
+  "title": "Happy"
+ },
+ {
+  "categoryid": "101",
+  "title": "Funny"
+ },
+ {
+  "categoryid": "8",
+  "title": "Carefree"
+ },
+ {
+  "categoryid": "9",
+  "title": "Love"
+ },
+ {
+  "categoryid": "35",
+  "title": "Playful"
+ },
+ {
+  "categoryid": "83",
+  "title": "Groovy"
+ },
+ {
+  "categoryid": "93",
+  "title": "Sexy"
+ },
+ {
+  "categoryid": "78",
+  "title": "Hopeful"
+ },
+ {
+  "categoryid": "10",
+  "title": "Peaceful"
+ },
+ {
+  "categoryid": "12",
+  "title": "Serious"
+ },
+ {
+  "categoryid": "13",
+  "title": "Dramatic"
+ },
+ {
+  "categoryid": "14",
+  "title": "Angry"
+ },
+ {
+  "categoryid": "15",
+  "title": "Tense"
+ },
+ {
+  "categoryid": "16",
+  "title": "sad"
+ },
+ {
+  "categoryid": "79",
+  "title": "Scary"
+ },
+ {
+  "categoryid": "92",
+  "title": "Dark"
+ },
+ {
+  "categoryid": "108",
+  "title": "Animals"
+ },
+ {
+  "categoryid": "114",
+  "title": "Communication and Electronics"
+ },
+ {
+  "categoryid": "120",
+  "title": "Sports"
+ },
+ {
+  "categoryid": "126",
+  "title": "Home"
+ },
+ {
+  "categoryid": "132",
+  "title": "Transportation"
+ },
+ {
+  "categoryid": "138",
+  "title": "Elements of Nature"
+ },
+ {
+  "categoryid": "144",
+  "title": "Weapons and Warfare"
+ },
+ {
+  "categoryid": "150",
+  "title": "Industry and Commercial"
+ },
+ {
+  "categoryid": "17",
+  "title": "Business & Corporate"
+ },
+ {
+  "categoryid": "18",
+  "title": "Technology"
+ },
+ {
+  "categoryid": "19",
+  "title": "Time Lapse"
+ },
+ {
+  "categoryid": "20",
+  "title": "Food"
+ },
+ {
+  "categoryid": "21",
+  "title": "Education"
+ },
+ {
+  "categoryid": "22",
+  "title": "Documentary"
+ },
+ {
+  "categoryid": "74",
+  "title": "Weddings"
+ },
+ {
+  "categoryid": "84",
+  "title": "Vlog"
+ },
+ {
+  "categoryid": "23",
+  "title": "Road Trip"
+ },
+ {
+  "categoryid": "75",
+  "title": "Travel"
+ },
+ {
+  "categoryid": "24",
+  "title": "Sport & Fitness"
+ },
+ {
+  "categoryid": "25",
+  "title": "lifestyle"
+ },
+ {
+  "categoryid": "26",
+  "title": "Building & City"
+ },
+ {
+  "categoryid": "27",
+  "title": "Nightlife"
+ },
+ {
+  "categoryid": "28",
+  "title": "Fashion"
+ },
+ {
+  "categoryid": "29",
+  "title": "Science"
+ },
+ {
+  "categoryid": "30",
+  "title": "Medical"
+ },
+ {
+  "categoryid": "31",
+  "title": "Industry"
+ },
+ {
+  "categoryid": "32",
+  "title": "Aerials"
+ },
+ {
+  "categoryid": "33",
+  "title": "Landscape"
+ },
+ {
+  "categoryid": "34",
+  "title": "Nature"
+ },
+ {
+  "categoryid": "36",
+  "title": "Slow Motion"
+ },
+ {
+  "categoryid": "157",
+  "title": "Nature"
+ },
+ {
+  "categoryid": "163",
+  "title": "City"
+ },
+ {
+  "categoryid": "169",
+  "title": "Weather"
+ },
+ {
+  "categoryid": "175",
+  "title": "Crowds"
+ },
+ {
+  "categoryid": "181",
+  "title": "Indoor Ambiences"
+ },
+ {
+  "categoryid": "187",
+  "title": "Transportation Ambience"
+ },
+ {
+  "categoryid": "65",
+  "title": "Acoustic"
+ },
+ {
+  "categoryid": "57",
+  "title": "Ambient"
+ },
+ {
+  "categoryid": "58",
+  "title": "Blues"
+ },
+ {
+  "categoryid": "88",
+  "title": "Children"
+ },
+ {
+  "categoryid": "62",
+  "title": "Cinematic"
+ },
+ {
+  "categoryid": "72",
+  "title": "Classical"
+ },
+ {
+  "categoryid": "60",
+  "title": "Country"
+ },
+ {
+  "categoryid": "64",
+  "title": "Electronic"
+ },
+ {
+  "categoryid": "71",
+  "title": "Folk"
+ },
+ {
+  "categoryid": "89",
+  "title": "Funk"
+ },
+ {
+  "categoryid": "85",
+  "title": "Hip Hop"
+ },
+ {
+  "categoryid": "87",
+  "title": "Holiday"
+ },
+ {
+  "categoryid": "66",
+  "title": "Indie"
+ },
+ {
+  "categoryid": "61",
+  "title": "Jazz"
+ },
+ {
+  "categoryid": "91",
+  "title": "Latin"
+ },
+ {
+  "categoryid": "97",
+  "title": "Lounge"
+ },
+ {
+  "categoryid": "69",
+  "title": "Pop"
+ },
+ {
+  "categoryid": "73",
+  "title": "Reggae"
+ },
+ {
+  "categoryid": "68",
+  "title": "Rock"
+ },
+ {
+  "categoryid": "70",
+  "title": "Singer-Songwriter"
+ },
+ {
+  "categoryid": "59",
+  "title": "Soul & RnB"
+ },
+ {
+  "categoryid": "63",
+  "title": "World"
+ },
+ {
+  "categoryid": "194",
+  "title": "Footsteps"
+ },
+ {
+  "categoryid": "201",
+  "title": "Body Sounds"
+ },
+ {
+  "categoryid": "207",
+  "title": "Materials"
+ },
+ {
+  "categoryid": "213",
+  "title": "Wearable Objects"
+ },
+ {
+  "categoryid": "219",
+  "title": "Body Hits/Martial Arts"
+ },
+ {
+  "categoryid": "41",
+  "title": "Acoustic Drums"
+ },
+ {
+  "categoryid": "38",
+  "title": "Acoustic Guitar"
+ },
+ {
+  "categoryid": "52",
+  "title": "Backing Vocals"
+ },
+ {
+  "categoryid": "48",
+  "title": "Bells"
+ },
+ {
+  "categoryid": "46",
+  "title": "Claps & Snaps"
+ },
+ {
+  "categoryid": "39",
+  "title": "Electric Guitar"
+ },
+ {
+  "categoryid": "82",
+  "title": "Electronic Drums"
+ },
+ {
+  "categoryid": "81",
+  "title": "Ethnic"
+ },
+ {
+  "categoryid": "80",
+  "title": "Keys"
+ },
+ {
+  "categoryid": "37",
+  "title": "Mandolin & Ukulele"
+ },
+ {
+  "categoryid": "86",
+  "title": "Orchestra"
+ },
+ {
+  "categoryid": "43",
+  "title": "Percussion"
+ },
+ {
+  "categoryid": "40",
+  "title": "Piano"
+ },
+ {
+  "categoryid": "42",
+  "title": "Strings"
+ },
+ {
+  "categoryid": "49",
+  "title": "Synth"
+ },
+ {
+  "categoryid": "51",
+  "title": "Vocal"
+ },
+ {
+  "categoryid": "50",
+  "title": "Whistle"
+ },
+ {
+  "categoryid": "47",
+  "title": "Wind Instruments"
+ },
+ {
+  "categoryid": "226",
+  "title": "Destruction"
+ },
+ {
+  "categoryid": "232",
+  "title": "Science Fiction"
+ },
+ {
+  "categoryid": "238",
+  "title": "Cartoon"
+ },
+ {
+  "categoryid": "244",
+  "title": "Horror"
+ },
+ {
+  "categoryid": "250",
+  "title": "Technology"
+ },
+ {
+  "categoryid": "256",
+  "title": "Impacts"
+ },
+ {
+  "categoryid": "262",
+  "title": "Whooshes"
+ },
+ {
+  "categoryid": "269",
+  "title": "Loops and Phrases"
+ },
+ {
+  "categoryid": "275",
+  "title": "Logos"
+ },
+ {
+  "categoryid": "281",
+  "title": "One Shots"
+ },
+ {
+  "categoryid": "287",
+  "title": "Vocals"
+ }
+]
