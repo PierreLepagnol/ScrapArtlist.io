@@ -17,5 +17,6 @@
 ├── main.py # Principal & Interface
 ├── README.md # Readme
 ├── recupCategories.py # Script récup catégories
-└── RecupTitres.py # Script download musique
+├── RecupTitres.py # Script download musique
+└── ScrapFunc.py # Fonction de base Scrapping
 ```
