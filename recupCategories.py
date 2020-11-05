@@ -5,6 +5,10 @@ Created on Mon Sep 28 12:25:48 2020
 
 @author: pierre
 Script de récuperation des categories
+
+
+du blabla 
+
 """
 
 import requests
@@ -13,7 +17,7 @@ import json
 import pickle
 import pandas as pd
 import re
-from ScrapFunc import GetPage
+
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
